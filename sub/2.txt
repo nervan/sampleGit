@@ -6,3 +6,4 @@ by 남반석
 release 2.5.1
 
 hotfix 버그수정.
+sub로 리네임하고 2.txt를 수정했다.
