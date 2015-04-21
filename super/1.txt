@@ -1,0 +1,12 @@
+by 남반석
+시작~
+
+녹음기능 추가.
+
+release 2.5.1
+
+hotfix 버그수정.
+
+
+sub
+subsub폴더로 변경
