@@ -5,4 +5,4 @@ by 남반석
 
 release 2.5.1
 
-hotfix 버그수정.ddd
+hotfix 버그수정.
