@@ -11,3 +11,5 @@ hotfix 버그수정.ddd
 release 2.7.0
 
 release 2.7.1
+
+release 2.7.2
