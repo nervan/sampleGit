@@ -1,3 +1,5 @@
+addTextView QA Fix
+addTextView 개발완료
 main()
 
 마스터에서 수정함.
